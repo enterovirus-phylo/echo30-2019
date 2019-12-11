@@ -1,0 +1,62 @@
+LOCUS       AB917085                 876 bp    RNA     linear   VRL 29-JAN-2016
+DEFINITION  Echovirus E30 VP1 gene for capsid protein, partial cds, strain:
+            517-YN-HC-2013.
+ACCESSION   AB917085
+VERSION     AB917085.1
+KEYWORDS    .
+SOURCE      Echovirus E30
+  ORGANISM  Echovirus E30
+            Viruses; ssRNA viruses; ssRNA positive-strand viruses, no DNA
+            stage; Picornavirales; Picornaviridae; Enterovirus; Enterovirus B.
+REFERENCE   1
+  AUTHORS   Tian,B.T.
+  TITLE     Complete sequencing for VP1 gene for some echoviruses isolated from
+            healthy children, Yunnan Province, China, 2013
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 876)
+  AUTHORS   Tian,B.T., Jie,Z. and Zhixian,Z.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-MAR-2014) Contact:Bingjun Tian Yunnan Center for
+            Disease Control & Prevention, EPI; 158 Dongsi street, Kunming,
+            Yunnan 650022, China
+FEATURES             Location/Qualifiers
+     source          1..876
+                     /organism="Echovirus E30"
+                     /mol_type="genomic RNA"
+                     /strain="517-YN-HC-2013"
+                     /isolation_source="stool from healthy children"
+                     /host="Homo sapiens male"
+                     /db_xref="taxon:41846"
+                     /country="China:Yunnan Province"
+                     /collection_date="2013"
+     gene            <1..>876
+                     /gene="VP1"
+     CDS             <1..>876
+                     /gene="VP1"
+                     /codon_start=1
+                     /product="capsid protein"
+                     /protein_id="BAO56837.1"
+                     /translation="NDPESAINRAVGRVADTVASGPVNTEQIPALTAVETGHTSQVVP
+                     SDTMQTRHVINYHTRSESSIENFMGRAACVYIAQYATEKVNDELDRYTNWEITTRQVA
+                     QLRRKLEMFTYMRFDLEITLVITSSQRTSTTYASDSPPLTHQVMYVPPGGPIPKSYED
+                     FAWQTSTNPSVFWTEGNAPPRMSIPFMSVGNAYCNFYDGWSHFSQSGVYGYTTLNNMG
+                     HLYFRHVNKSTAYPVNSVARVYFKPKHVKAWVPRAPRLCPYLYARNVNFDVQGVTESR
+                     GKITLDRSTHNPLTNT"
+ORIGIN      
+        1 aatgaccctg aaagtgcaat caacagggcc gtgggaaggg tagctgacac tgtagctagt
+       61 ggacctgtca acaccgagca aattcctgcc ttgacagcag tggagacagg acacacatca
+      121 caagtagtac cgagtgacac aatgcaaaca cgacacgtga tcaactacca caccagatca
+      181 gagtcatcaa tagaaaactt tatgggtaga gcggcgtgtg tgtacattgc tcaatacgcc
+      241 actgagaaag tcaatgatga gttggacagg tacactaact gggaaataac aaccaggcaa
+      301 gtggcgcaac taaggcgcaa gctggaaatg ttcacataca tgagatttga ccttgagatc
+      361 acgttagtca tcaccagctc ccaacgcacc tcaaccacat acgcgtcgga ctccccacca
+      421 ctgacacacc aggtgatgta cgtgccgccg gggggcccaa tccctaaaag ctatgaggat
+      481 ttcgcgtggc agacatctac caatccaagc gtattctgga cggagggtaa cgcccccccc
+      541 aggatgtcaa taccattcat gagcgttgga aatgcgtact gcaacttcta tgatgggtgg
+      601 tctcacttca gtcaaagcgg cgtctatggg tataccacct tgaacaacat gggtcaccta
+      661 tactttagac acgtaaacaa atcaaccgct tacccagtta acagtgttgc ccgtgtctac
+      721 ttcaagccca aacacgttaa ggcctgggtg ccccgcgcac cacgcttgtg cccgtacttg
+      781 tatgcaagaa atgttaactt tgatgtgcaa ggggtgaccg agtctcgggg taaaattacc
+      841 cttgaccggt caacccacaa tcccttaaca aacact
+//
+

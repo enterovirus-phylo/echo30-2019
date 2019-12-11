@@ -1,0 +1,41 @@
+group	Group1	#ffe119
+group	Group2	#f58231
+group	Group3	#f032e6
+group	Group4	#3cb44b
+group	Group5	#911eb4
+group	Group6	#e6194B
+group	Group7	#4363d8
+
+child_age_range	0-3 months	#d7191c
+child_age_range	4-6 months	#fdae61
+child_age_range	7-12 months	#ffd11a
+child_age_range	13-23 months	#abd9e9
+child_age_range	>=24 months	#6b6b6b
+
+age_range2	<18y	#d7191c
+age_range2	18-64y	#ffd11a
+age_range2	>=65y	#2c7bb6
+
+age_range3	<18y	#d7191c
+age_range3	>=18y	#2c7bb6
+
+age_range	0-4 yrs	#f93529
+age_range	5-14 yrs	#fb8638
+age_range	15-24 yrs	#f9c244
+age_range	25-34 yrs	#d0d554
+age_range	35-44 yrs	#96c971
+age_range	45-54 yrs	#72c5aa
+age_range	55-64 yrs	#55a1db
+age_range	65-74 yrs	#4664eb
+age_range	>=75 yrs	#b1b3b3
+
+age_range1	0-4 yrs	#ea3c77
+age_range1	5-14 yrs	#d23192
+age_range1	15-24 yrs	#b726af
+age_range1	25-34 yrs	#a11cc8
+age_range1	35-44 yrs	#8912e3
+age_range1	45-54 yrs	#722ee8
+age_range1	55-64 yrs	#5b49ec
+age_range1	65-74 yrs	#4663f1
+age_range1	>=75 yrs	#2887f7
+

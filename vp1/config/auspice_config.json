@@ -1,0 +1,63 @@
+{
+  "title": "Phylodynamics of Echovirus 30",
+  "color_options": {
+    "gt": {
+      "menuItem": "genotype",
+      "legendTitle": "Genotype",
+      "type": "discrete",
+      "key": "genotype"
+    },
+    "num_date": {
+      "menuItem": "date",
+      "legendTitle": "Sampling date",
+      "type": "continuous",
+      "key": "num_date"
+    },
+    "country": {
+      "type": "discrete"
+    },
+    "region": {
+      "type": "discrete"
+    },
+    "group": {
+      "type": "discrete"
+    },
+    "samptype": {
+      "type": "discrete",
+      "menuItem": "Sample Type",
+      "legendTitle": "Sample Type"
+    },
+    "gene": {
+      "type": "discrete"
+    },
+    "age": {
+      "type": "continuous"
+    },
+    "age_range": {
+      "type": "discrete"
+    },
+    "child_age_range": {
+      "type": "discrete"
+    },
+    "symptom": {
+      "type": "discrete"
+    },
+    "symptom_full": {
+      "type": "discrete"
+    },
+    "hospitalised": {
+      "type": "discrete"
+    }
+  },
+  "geo": [
+    "country"
+  ],
+  "maintainer": [
+    "Emma Hodcroft, Kim Benschop, Jan Albert, Richard Neher, Peter Simmonds",
+    "http://neherlab.org"
+  ],
+  "filters": [
+    "country", "gene", "group", "samptype", "hospitalised", 
+    "symptom", "symptom_full", "age_range", "child_age_range"
+  ]
+}
