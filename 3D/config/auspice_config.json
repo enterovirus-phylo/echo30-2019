@@ -59,5 +59,8 @@
   "filters": [
     "country", "gene", "group", "samptype", "hospitalised", 
     "symptom", "symptom_full", "age_range", "child_age_range"
-  ]
+  ],
+  "defaults": {
+    "colorBy": "group"
+  }
 }
