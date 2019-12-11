@@ -12,5 +12,5 @@ You can view the whole manuscript [here]() *(paper link will be added once publi
 
 This analysis was created with sequences of Echovirus 30 sampled from across Europe from 2016-2018. VP1 sequences with >=250bp, and 3D _pol_ sequences with >=500bp were included in a background of older and longer sequences, in two separate runs.
 
-This was run using the snakemake pipeline in this repository. You can see the current code [here](), and the frozen version (the exact version used to run this result) [here](). *(These links will be added once the code is online.)*
+This was run using the snakemake pipeline in this repository. You can see the current code above, and the frozen version (the exact version used to run this result) [here](). *(Code not yet frozen.)*
 
