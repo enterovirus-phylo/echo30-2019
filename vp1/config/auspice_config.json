@@ -1,5 +1,5 @@
 {
-  "title": "Phylodynamics of Echovirus 30",
+  "title": "Phylodynamics of Echovirus 30 - VP1 Gene",
   "color_options": {
     "gt": {
       "menuItem": "genotype",
@@ -53,11 +53,14 @@
     "country"
   ],
   "maintainer": [
-    "Emma Hodcroft, Kim Benschop, Jan Albert, Richard Neher, Peter Simmonds",
-    "http://neherlab.org"
+    "Emma Hodcroft, Kim Benschop, Peter Simmonds",
+    "https://github.com/enterovirus-phylo/echo30-2019"
   ],
   "filters": [
     "country", "gene", "group", "samptype", "hospitalised", 
     "symptom", "symptom_full", "age_range", "child_age_range"
-  ]
+  ],
+  "defaults": {
+    "colorBy": "group"
+  }
 }
