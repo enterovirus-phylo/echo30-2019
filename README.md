@@ -1,4 +1,4 @@
-# Nextstrain Runs for the paper "(Add paper title when finalized)"
+# Nextstrain Runs for the paper "The molecular epidemiology and evolutionary trajectory of echovirus 30 associated with its recent emergence in Europe."
 
 This repository contains the Nextstrain augur pipeline output files which allow vizualisation of the result via the 'community' feature on Nextstrain. 
 
