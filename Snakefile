@@ -91,8 +91,10 @@ rule tree:
     shell:
         """
         augur tree --alignment {input.alignment} --output {output.tree} \
-            --substitution-model {params.model}
+            --substitution-model {params.model} 
         """
+        #--method iqtree 
+        #--tree-builder-args "-ninit 100 -me 0.01"
 
 rule refine:
     input:

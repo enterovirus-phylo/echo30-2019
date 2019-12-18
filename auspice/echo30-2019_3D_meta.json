@@ -1,19 +1,19 @@
 {
   "annotations": {
     "3D": {
-      "end": 1386,
+      "end": 540,
       "start": 0,
       "strand": 1
     },
     "nuc": {
-      "end": 1386,
+      "end": 540,
       "start": 0,
       "strand": 1
     }
   },
   "author_info": {
     "Genbank": {
-      "n": 49,
+      "n": 50,
       "title": "Genbank"
     },
     "Simmonds P, Broberg E, and Benschop K": {
@@ -169,6 +169,9 @@
       "type": "discrete"
     }
   },
+  "defaults": {
+    "colorBy": "group"
+  },
   "filters": [
     "country",
     "gene",
@@ -222,10 +225,6 @@
         "latitude": 40.0028028,
         "longitude": -4.0031039
       },
-      "ukraine": {
-        "latitude": 49.4871968,
-        "longitude": 31.2718321
-      },
       "united_kingdom": {
         "latitude": 54.542713,
         "longitude": -2.384858
@@ -233,8 +232,8 @@
     }
   },
   "maintainer": [
-    "Emma Hodcroft, Kim Benschop, Jan Albert, Richard Neher, Peter Simmonds",
-    "http://neherlab.org"
+    "Emma Hodcroft, Kim Benschop, Peter Simmonds",
+    "https://github.com/enterovirus-phylo/echo30-2019"
   ],
   "panels": [
     "tree",
@@ -242,6 +241,6 @@
     "entropy"
   ],
   "title": "Phylodynamics of Echovirus 30 - 3D gene",
-  "updated": "05 Dec 2019",
+  "updated": "18 Dec 2019",
   "virus_count": 110
 }

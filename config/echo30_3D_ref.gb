@@ -1,0 +1,56 @@
+LOCUS       MK238483                540 bp    RNA     linear   VRL 26-FEB-2019
+DEFINITION  Echovirus E30 strain USA/2017/CA-RGDS-1005, complete genome.
+ACCESSION   MK238483
+VERSION     MK238483.1
+KEYWORDS    .
+SOURCE      Echovirus E30
+  ORGANISM  Echovirus E30
+            Viruses; ssRNA viruses; ssRNA positive-strand viruses, no DNA
+            stage; Picornavirales; Picornaviridae; Enterovirus; Enterovirus B.
+REFERENCE   1  (bases 1 to 540)
+  AUTHORS   Pan,C.-Y., Huynh,T., Padilla,T., Ng,T.F., Marine,R.L., Castro,C.J.,
+            Nix,W.A. and Wadford,D.A.
+  TITLE     Genome Sequences of Human Echovirus 30 from a large meningitis
+            outbreak, California 2017
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 540)
+  AUTHORS   Pan,C.-Y., Huynh,T., Padilla,T., Ng,T.F., Marine,R.L., Castro,C.J.,
+            Nix,W.A. and Wadford,D.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-NOV-2018) Viral and Rickettsial Disease Laboratory,
+            California Department of Public Health, 850 Marina Bay Parkway,
+            Richmond, CA 94804, USA
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. R10; SPAdes v. 3.6
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..540
+                     /organism="Echovirus E30"
+                     /mol_type="genomic RNA"
+                     /strain="USA/2017/CA-RGDS-1005"
+                     /isolation_source="cerebral spinal fluid"
+                     /host="Homo sapiens"
+                     /db_xref="taxon:41846"
+                     /country="USA: CA, El Dorado"
+                     /collection_date="22-Oct-2017"
+     CDS             1..540
+                     /gene="3D"
+                     /codon_start=1
+                     /product="3D"
+                     /translation="KTKLEPSVFHHVFEGNKEPAVLRSGDPRLRANFEEAIFSKYIGN
+                     VNTHVDEYMMEAVDHYAGQLATLDISTEPMKLEDAVYGTEGLEALDLTTSAGYPYVAL
+                     GIKKRDILSKKTKDLTKLKECMDKYGLNLPMVTYVKDELRSAEKVAKGKSRLIEASSL
+                     NDSVAMRQTFGNLYKTFHLN"
+ORIGIN      
+        1 aaaacgaagc tcgagcctag tgttttccac cacgtgtttg agggaaacaa ggagccagca
+       61 gtgttgagga gtggagaccc cagactgagg gccaactttg aggaagccat cttctccaag
+      121 tatattggga atgtgaacac acatgtggat gaatatatga tggaggccgt ggaccactat
+      181 gctggacaac tggcgactct ggacatcagc acagaaccca tgaagctcga ggatgctgtc
+      241 tatggtactg aaggtttaga ggcgctggac ttgacaacta gtgcagggta cccctatgtt
+      301 gctcttggca taaagaaaag ggacattttg tccaagaaga cgaaagatct gaccaaattg
+      361 aaggaatgta tggataaata tggtctaaac cttccaatgg tgacctacgt gaaagatgaa
+      421 cttagatcag cagaaaaagt ggctaaaggc aagtccaggc tcattgaggc atccagcttg
+      481 aatgactctg ttgcgatgag acagactttt ggcaatttgt acaaaacatt ccatctgaac
+//
+
