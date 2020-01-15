@@ -139,8 +139,9 @@ rule ancestral:
         """
         augur ancestral --tree {input.tree} --alignment {input.alignment} \
             --output {output.nt_data} --inference {params.inference} \
-            --keep-ambiguous --keep-overhangs
+            --keep-ambiguous 
         """
+        #--keep-overhangs
 
 rule translate:
     input:
