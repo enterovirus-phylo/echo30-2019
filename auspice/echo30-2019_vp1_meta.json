@@ -31,69 +31,41 @@
     "age_range": {
       "color_map": [
         [
-          "0-4 yrs",
+          "0 - 3 mo",
           "#f93529"
         ],
         [
-          "5-14 yrs",
+          "3 mo - 23 mo",
           "#fb8638"
         ],
         [
-          "15-24 yrs",
+          "2 - 5 yrs",
           "#f9c244"
         ],
         [
-          "25-34 yrs",
+          "5 - 15 yrs",
           "#d0d554"
         ],
         [
-          "35-44 yrs",
+          "15 - 25 yrs",
           "#96c971"
         ],
         [
-          "45-54 yrs",
+          "25 - 45 yrs",
           "#72c5aa"
         ],
         [
-          "55-64 yrs",
+          "45 - 65 yrs",
           "#55a1db"
         ],
         [
-          "65-74 yrs",
+          "> 65 yrs",
           "#4664eb"
         ]
       ],
       "key": "age_range",
       "legendTitle": "age_range",
       "menuItem": "age_range",
-      "type": "discrete"
-    },
-    "child_age_range": {
-      "color_map": [
-        [
-          "0-3 months",
-          "#d7191c"
-        ],
-        [
-          "4-6 months",
-          "#fdae61"
-        ],
-        [
-          "7-12 months",
-          "#ffd11a"
-        ],
-        [
-          "13-23 months",
-          "#abd9e9"
-        ],
-        [
-          ">=24 months",
-          "#6b6b6b"
-        ]
-      ],
-      "key": "child_age_range",
-      "legendTitle": "child_age_range",
-      "menuItem": "child_age_range",
       "type": "discrete"
     },
     "country": {
@@ -301,6 +273,6 @@
     "entropy"
   ],
   "title": "Phylodynamics of Echovirus 30 - VP1 Gene",
-  "updated": "15 Jan 2020",
+  "updated": "07 Feb 2020",
   "virus_count": 1285
 }

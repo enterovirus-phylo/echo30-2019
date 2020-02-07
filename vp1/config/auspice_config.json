@@ -36,9 +36,6 @@
     "age_range": {
       "type": "discrete"
     },
-    "child_age_range": {
-      "type": "discrete"
-    },
     "symptom": {
       "type": "discrete"
     },
