@@ -36,9 +36,6 @@
     "age_range": {
       "type": "discrete"
     },
-    "child_age_range": {
-      "type": "discrete"
-    },
     "symptom": {
       "type": "discrete"
     },
@@ -58,7 +55,7 @@
   ],
   "filters": [
     "country", "gene", "group", "samptype", "hospitalised", 
-    "symptom", "symptom_full", "age_range", "child_age_range"
+    "symptom", "symptom_full", "age_range"
   ],
   "defaults": {
     "colorBy": "group"
